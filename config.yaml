@@ -14,13 +14,13 @@ carpentry: 'uom'
 carpentry_description: 'Lesson Description' # FIXME
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'Introduction to Machine Learning' # FIXME
 
 # Date the lesson was created ('YYYY-MM-DD', this is empty by default)
 created: ~ # FIXME
 
 # Comma-separated list of keywords for the lesson. Avoid words in the title.
-keywords: 'software, data, lesson' # FIXME
+keywords: 'ML, data, lesson' # FIXME
 
 # Life cycle stage of the lesson
 # refer to <https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html> for details
@@ -62,17 +62,17 @@ contact: 'fixme@fixme.org' # FIXME
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
