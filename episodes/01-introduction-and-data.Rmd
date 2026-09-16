@@ -25,6 +25,7 @@ exercises: 0
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ```{r setup, include=FALSE}
+library(knitr)
 library(reticulate)
 
 # reticulate provisions an ephemeral Python environment (via uv) that satisfies
@@ -34,6 +35,7 @@ reticulate::py_require(
   packages = c("pandas", "numpy", "matplotlib", "seaborn", "scikit-learn"),
   python_version = ">=3.10,<3.13"
 )
+#reticulate::use_python('/opt/anaconda3/bin/python')
 ```
 
 ## What is machine learning?
