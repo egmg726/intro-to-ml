@@ -89,7 +89,7 @@ print("pandas version:", pd.__version__)
 
 ## Loading the data
 
-We're using the **Breast Cancer Wisconsin (Diagnostic)** dataset, which ships
+We're using the [**Breast Cancer Wisconsin (Diagnostic)**](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) dataset, which ships
 directly with scikit-learn. It has 569 patients with features derived from digitised
 images of fine needle aspirate (FNA) biopsies (e.g. cell nucleus radius, texture,
 smoothness). The target is binary: malignant vs. benign.
