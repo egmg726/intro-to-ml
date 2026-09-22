@@ -77,7 +77,7 @@ print("pandas version:", pd.__version__)
 ```
 
 ``` output
-pandas version: 3.0.5
+pandas version: 3.0.6
 ```
 
 ## Loading the data

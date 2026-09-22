@@ -14,7 +14,7 @@ print("pandas version:", pd.__version__)
 ```
 
 ``` output
-pandas version: 3.0.5
+pandas version: 3.0.6
 ```
 
 ## Test 2: matplotlib plot renders in a non-interactive (CI) context
